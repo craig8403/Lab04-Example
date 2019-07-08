@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 import java.text.DecimalFormat;
 
-public class Blackjack {
+public class Blackjack {                //Changes for Lab04 GitHub check
 
     public static void main(String[] args) {
 
